@@ -232,7 +232,7 @@ GROUP BY 1;
 **Objective:** Categorize content as 'Bad' if it contains 'kill' or 'violence' and 'Good' otherwise. Count the number of items in each category.
 	 
 
-#### Findings and Conclusion
+## Findings and Conclusion
 
 - **Content Distribution:** The dataset includes a wide range of films and television series of varied ratings and genres.
 - **popular Ratings:** Insights on the most popular ratings help to determine the content's intended demographic.
