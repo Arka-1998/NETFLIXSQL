@@ -4,7 +4,7 @@
 DROP TABLE IF EXISTS netflix;
 CREATE TABLE netflix
 (
-	show_id	VARCHAR(5),
+	show_id	VARCHAR(50),
 	type    VARCHAR(10),
 	title	VARCHAR(250),
 	director VARCHAR(550),
